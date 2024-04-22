@@ -1,0 +1,175 @@
+body{
+    background-image: url(images/bg.png);
+}
+.image{
+	height: 100vh;
+	opacity: 0.75;
+}
+.logo{
+    margin-left: 600px;
+    margin-top: 30px;
+    position: absolute;
+}
+
+.bg-light {
+    background-color: rgba(0,0,0,.2) !important;
+}
+.form-control {
+	background-color: transparent;
+	border: 0px;
+	font-family: 'BenchNine', sans-serif;
+    font-size: 30px;
+    color: rgb(255,255,255) !important;
+}
+.carousel-caption {
+    bottom: 200px;
+    font-size: 30px;
+    font-family: 'Lobster Two', cursive;
+    margin-left: 15px;
+}
+.h5, h5 {
+
+    font-size: 90px;
+    font-family: 'Neucha', sans-serif;
+}
+.nv{
+	margin-left: 550px;
+}
+.lis{
+	padding-right: 45px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255,255,255) !important;
+    font-family: 'BenchNine', sans-serif;
+    font-size: 30px;
+}
+.wlm{
+	margin-top: 150px;
+	font-family: 'Neucha', sans-serif;
+	font-size: 50px;
+}
+.btn-secondary {
+    color: #fff;
+    background-color: #297cbb;
+    border-color: #6c757d;
+    font-size: 20px;
+    border-radius: 48%;
+}
+hr { 
+  display: block;
+  margin-bottom: 20px;
+  margin-left: 550px;
+  margin-right: 550px;
+  border-style: inset;
+  border-width: 3px;
+  border-color: #297cbb;
+} 
+.wlm1{
+    font-family: 'Lobster Two', cursive;
+	align-content: center;
+	font-size: 30px;
+	margin-left: 60px;
+    margin-top: 50px;
+	margin-right: 40px;
+    margin-bottom: 50px;
+}
+.ft{
+    font-family: 'Neucha', sans-serif;
+    background-color: #297cbb;
+    color:rgb(255,255,255);
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 0px;
+}
+.ft1{
+    background-color: #297cbb;
+    display: flex;
+    color:rgb(255,255,255);
+    margin-top: 0px;
+    text-align:justify;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.ft1 .ft2{
+    flex: 1;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.ft1 .ft3{
+    flex: 1;
+    justify-content: center;
+    border-right: 1px;
+    padding-left: 250px;
+    border-right: 2px solid #fff;
+    padding-top: 20px;
+}
+
+.ft1 .ft4{
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-top: 20px;
+}
+.ft1 .ft4 .form1{
+    padding-bottom: 20px;
+}
+.ft1 .ft4 .form2{
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+.socail{
+    background-color:crimson;
+}
+a, a:hover {
+	text-decoration: none;
+}
+
+.socialbtns, .socialbtns ul, .socialbtns li {
+	margin: 0;
+	padding: 5px;
+}
+
+.socialbtns li {
+    list-style: none outside none;
+    display: inline-block;
+}
+
+.socialbtns .fa {
+    color: #000;
+	background-color: #fff;
+	width: 50px;
+    height: 40px;
+    padding-top: 12px;
+	border-radius: 30px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
+  transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+  	transform: rotate(-360deg);
+	-moz-transform: rotate(-360deg);
+	-webkit-transform: rotate(-360deg);
+	-o-transform: rotate(-360deg);
+}
+
+.socialbtns .fa:hover {
+	transition: all ease 0.3s;
+    -moz-transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s;
+    -o-transition: all ease 0.3s;
+	transform: rotate(360deg);
+	-moz-transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+	-o-transform: rotate(360deg);
+}
+
+
+
+
+
